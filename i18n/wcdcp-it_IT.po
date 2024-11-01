@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wcdcp\n"
+"POT-Creation-Date: 2017-07-29 18:19+0200\n"
+"PO-Revision-Date: 2017-07-29 18:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: disable-cart-page-for-woocommerce.php:47
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: disable-cart-page-for-woocommerce.php:54
+#: disable-cart-page-for-woocommerce.php:74
+msgid "Disable cart page"
+msgstr "Disabilita la pagina carrello"
+
+#: disable-cart-page-for-woocommerce.php:56
+msgid ""
+"Enabling this option will delete the cart page and for each purchase "
+"customers will be redirected directly to the checkout. They will also be "
+"able to buy one type of product at a time."
+msgstr ""
+"Abilitando questa opzione sarà eliminata la pagina del carrello e ad ogni "
+"acquisto i clienti saranno reindirizzati direttamente alla cassa. Dovranno "
+"così acquistare un solo prodotto per volta."
+
+#: disable-cart-page-for-woocommerce.php:59
+msgid "Enable"
+msgstr "Abilita"
+
+#: disable-cart-page-for-woocommerce.php:61
+msgid "Disable cart page and redirect directly to checkout"
+msgstr ""
+"Disabilita la pagina di carrello e reindirizzare direttamente alla cassa"
+
+#: disable-cart-page-for-woocommerce.php:100
+msgid ""
+"Warning! To use Disable cart page for WooCommerce it need WooCommerce is "
+"installed and active."
+msgstr ""
+"Attenzione! Per utilizzare Disable cart page for WooCommerce è necessario "
+"che WooCommerce sia installato e attivo."
+
+#: disable-cart-page-for-woocommerce.php:143
+#: disable-cart-page-for-woocommerce.php:148
+msgid "Buy now"
+msgstr "Acquista subito"
+
+#~ msgid ""
+#~ "Enabling this option will delete the cart page and for each purchase "
+#~ "customers will be redirected directly to the checkout. You will also be "
+#~ "able to buy one type of product at a time."
+#~ msgstr ""
+#~ "Abilitando questa opzione sarà eliminata la pagina del carrello e ad ogni "
+#~ "acquisto i clienti saranno reindirizzati direttamente alla cassa. "
+
+#~ msgid ""
+#~ "Enabling this option will delete the cart page and each purchase will be "
+#~ "redirected directly to the checkout. You will also be able to buy one "
+#~ "type of product at a time."
+#~ msgstr ""
+#~ "Abilitando questa opzione sarà eliminata la pagina del carrello e ad ogni "
+#~ "acquisto "
+
+#~ msgid ""
+#~ "Enabling this option will delete the shopping page and each purchase will "
+#~ "be redirected directly to the checkout. You will also be able to buy one "
+#~ "type of product at a time."
+#~ msgstr "Abilitando questa opzione sarà eliminata la "
+
+#~ msgid "View"
+#~ msgstr "Visualizza"
